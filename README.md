@@ -1,6 +1,6 @@
 ### 👋 Hi there 👋
 
-🔭 I’m currently working on re-making all my JavaScript projects from JavaScript course.
+🔭 I’m currently working on re-making all my JavaScript projects from my online JavaScript course.
 
 🌱 I’m currently learning the Node.js framework.
 
