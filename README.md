@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning the Node.js framework.
 
-✨ Linux user ✨
+✨ Linux enjoyer ✨
 
 ### ✨ All you need to k n o w ✨
 
