@@ -1,7 +1,9 @@
 ### 👋 Hi there 👋
 
 🔭 I’m currently working on re-making all my JavaScript projects from JavaScript course.
+
 🌱 I’m currently learning the Node.js framework.
+
 ✨ Linux user ✨
 
 ### ✨ All you need to k n o w ✨
