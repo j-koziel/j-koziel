@@ -7,6 +7,7 @@ I've been learning JavaScript for the last 2 years and Node.js for the past 3 mo
 - 🌍 I'm based in London
 - ✉️ You can contact me at [tweggy4@gmail.com](mailto:tweggy4@gmail.com)
 - 🧠 I'm learning Node.js + JavaScript
+- ✨ Linux _enjoyer_ ✨
 
 ### Skills
 
