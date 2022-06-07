@@ -2,7 +2,7 @@
 
 ## On my way to become a back-end web developer
 
-I've been learning JavaScript for the last 2 years and Node.js for the past 3 months. To consolidate my JS I've been completing some projects from my online course.
+I've been learning JavaScript for the last 2 years and Node.js for the past few months. To consolidate my JS I've been completing some projects from my online course.
 
 - 🌍 I'm based in London
 - ✉️ You can contact me at [tweggy4@gmail.com](mailto:tweggy4@gmail.com)
