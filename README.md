@@ -2,8 +2,7 @@
 
 ## On my way to become a back-end web developer
 
-I've been learning JavaScript for the last few years and Node.js for the past few months. To consolidate my JS I've been completing some projects from my online course.
-
+I've been learning JavaScript for the last few years and Node.js for the past few months.
 - 🌍 I'm based in London
 - ✉️ You can contact me at [jonathankoziel1@gmail.com](mailto:jonathankoziel1@gmail.com)
 - 🧠 I'm learning Node.js + JavaScript
