@@ -33,4 +33,4 @@
 
 
 ### what i listen to... do whatever you like with this info
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=j%5Ennyb%5Ei.)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=f4ntiwra1iuympiys3py8m30u)
