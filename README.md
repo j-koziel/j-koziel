@@ -32,5 +32,5 @@
 <a href="https://github.com/j-koziel" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-koziel&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
-### what i listen to... do whatever you like with this info
+### what i listen to...
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=f4ntiwra1iuympiys3py8m30u)
