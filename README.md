@@ -1,6 +1,6 @@
 # Hi 👋 My name is Jonathan Koziel
 
-## On my way to become a back-end web developer
+## On my way to become a web developer
 
 - 🌍 I'm based in London
 - ✉️ You can contact me at [jonathankoziel1@gmail.com](mailto:jonathankoziel1@gmail.com)
