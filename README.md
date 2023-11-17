@@ -4,7 +4,7 @@
 
 - 🌍 I'm based in London
 - ✉️ You can contact me at [jonathankoziel1@gmail.com](mailto:jonathankoziel1@gmail.com)
-- 🧠 I'm learning Node.js + JavaScript + TypeScript + React + Java
+- 🧠 I'm learning Node.js + JavaScript + TypeScript + React + Next
 - ✨ Linux _enjoyer_ ✨
 
 ### Skills
