@@ -1,27 +1,12 @@
-# Hi 👋 My name is Jonathan Koziel
+Hi 👋 My name is Jonathan Koziel. I am an aspiring software engineer who is looking to kickstart their career in tech. I specialise in full-stack development and want to focus on utilizing technology to make a significant impact for various industries.
 
-## On my way to become a web developer
+# About me
+I am a talented and self-disciplined individual who loves learning new things. I am ready to adapt to new technologies and implement them into my work. 
 
-- 🌍 I'm based in London
-- ✉️ You can contact me at [jonathankoziel1@gmail.com](mailto:jonathankoziel1@gmail.com)
-- 🧠 I'm learning Node.js + JavaScript + TypeScript + React + Next
-- ✨ Linux _enjoyer_ ✨
-
-### Skills
-
-<p align="left">
-                                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-                                <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-                                <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-                                <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-                    </p>
-
-### Socials
-
-<p align="left"> 
-    <a href="https://discord.com/users/j^nnyb^i.#5891" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/j-koziel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-</p>
+# Technical Skills 🛠️
+- Languages: JavaScript, TypeScript, Python
+- Frameworks and Libraries: React.js, Next.js, Node.js, FastAPI, Flask, Pandas
+- Tools and Platforms: Vercel, Netlify, Render, Docker
 
 <b>My GitHub Stats</b>
 
