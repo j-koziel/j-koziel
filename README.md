@@ -8,7 +8,7 @@ I am a talented and self-disciplined individual who loves learning new things. I
 - Frameworks and Libraries: React.js, Next.js, Node.js, FastAPI, Flask, Pandas
 - Tools and Platforms: Vercel, Netlify, Render, Docker
 
-<b>My GitHub Stats</b>
+# My GitHub Statistics
 
 <a href="http://www.github.com/j-koziel"><img src="https://github-readme-stats.vercel.app/api?username=j-koziel&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="j-koziel's GitHub stats" /></a>
 
